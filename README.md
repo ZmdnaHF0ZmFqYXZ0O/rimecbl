@@ -6,7 +6,8 @@ The Chinese frequency words are from: https://github.com/liangqi/chinese-frequen
 
 The Chinese idioms are from: http://thuocl.thunlp.org/source/THUOCL_chengyu.txt
 
-Thanks for [@liangqi](https://github.com/liangqi) and [@lthon-x](https://github.com/lthon-x)
+Thanks for [@liangqi](https://github.com/liangqi) [@indiejoseph](https://github.com/indiejoseph) [@thiefstar](https://github.com/thiefstar) [@lthon-x](https://github.com/lthon-x)
+
 Thanks for [THUOCL：清华大学开放中文词库](http://thuocl.thunlp.org/)
 
 # 繁體中文：
@@ -16,7 +17,8 @@ Thanks for [THUOCL：清华大学开放中文词库](http://thuocl.thunlp.org/)
 
 中文成語來自於清華大學開放中文詞庫中的成語收錄：[http://thuocl.thunlp.org/source/THUOCL_chengyu.txt](http://thuocl.thunlp.org/source/THUOCL_chengyu.txt)
 
-感謝[@liangqi](https://github.com/liangqi) 和 [@lthon-x](https://github.com/lthon-x)
+感謝 [@liangqi](https://github.com/liangqi) [@indiejoseph](https://github.com/indiejoseph) [@thiefstar](https://github.com/thiefstar) [@lthon-x](https://github.com/lthon-x)
+
 感謝[THUOCL：清华大学开放中文词库](http://thuocl.thunlp.org/)
 
 # 简体中文
@@ -26,5 +28,6 @@ Thanks for [THUOCL：清华大学开放中文词库](http://thuocl.thunlp.org/)
 
 中文成语来自于清华大学开放中文词库中的成语收录：[http://thuocl.thunlp.org/source/THUOCL_chengyu.txt](http://thuocl.thunlp.org/source/THUOCL_chengyu.txt)
 
-感谢[@liangqi](https://github.com/liangqi) 和 [@lthon-x](https://github.com/lthon-x)
+感谢 [@liangqi](https://github.com/liangqi) [@indiejoseph](https://github.com/indiejoseph) [@thiefstar](https://github.com/thiefstar) [@lthon-x](https://github.com/lthon-x)
+
 感谢[THUOCL：清华大学开放中文词库](http://thuocl.thunlp.org/)
